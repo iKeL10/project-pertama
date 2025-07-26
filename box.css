@@ -1,0 +1,21 @@
+.container {
+    padding: auto;
+background-color: aliceblue;
+margin: 100px;
+margin-right: 275px;
+border-radius:20px black;
+border-width: 200px;
+border-color: black;
+}
+.identitas {
+    background-color: #f0f0f0;
+    margin-right:150px ; 
+    margin-left: 5px;
+   
+}
+.foto{
+    margin-left: 500px;
+    
+
+}
+    
